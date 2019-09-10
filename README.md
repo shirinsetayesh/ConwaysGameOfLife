@@ -1,4 +1,4 @@
-# ConwaysGameOfLife
+# Conways Game of Life
 
 Rules of the game:
 
