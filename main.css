@@ -1,0 +1,49 @@
+
+body {
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  color: rgb(31, 30, 30);
+}
+
+h1 {
+  font-weight: normal;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#board{
+  border-collapse: collapse;
+}
+
+#board td{
+  border: 1px solid rgb(192, 189, 189);
+  width: 18px;
+  height: 18px;
+}
+
+td.alive {
+  background-color: #004d40 ;
+}
+
+#control_panel {
+  margin: 10px 0 50px 0;
+}
+
+.button {
+  padding: 0.85em 1em;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  font-size: 0.9em;
+  text-align: center;
+  background-color: #00695c;
+  color: #fefefe;
+}
+
+.button:hover{
+  background-color: #009688;
+}
+
+
