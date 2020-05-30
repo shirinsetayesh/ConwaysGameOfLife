@@ -2,7 +2,7 @@
 
 https://ssetayesh.github.io/ConwaysGameOfLife/
 
-Rules of the game:
+# Rules of the game
 
 Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 
