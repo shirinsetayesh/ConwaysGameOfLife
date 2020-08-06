@@ -1,6 +1,6 @@
 # Conways Game of Life
 
-https://ssetayesh.github.io/ConwaysGameOfLife/
+https://shirinsetayesh.github.io/ConwaysGameOfLife/
 
 # Rules of the game
 
